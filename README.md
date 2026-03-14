@@ -54,7 +54,8 @@
 
 ```yaml
 Name     : Abhishek Sharma
-Role     : Full Stack Developer & Founder
+Role     : Full Stack Developer
+Company  : Jyoti Info Tech Software & IT Solutions
 Location : India 🇮🇳
 Status   : Building SaaS Products
 ```
@@ -276,16 +277,30 @@ Status   : Building SaaS Products
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhisheksharma004&theme=solarized_dark" width="32%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhisheksharma004&theme=solarized_dark&utcOffset=5.5" width="49%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abhisheksharma004&hide_border=true&bg_color=1a0800&title_color=FF9933&text_color=FFD9A0&icon_color=FF6600&border_radius=12&layout=compact" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhisheksharma004&theme=solarized_dark&utcOffset=5.5" width="70%"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhisheksharma004&style=for-the-badge&color=FF6600&label=PROFILE+VIEWS"/>
 </p>
 
-<!-- ============================================================ -->
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CC4400&height=45&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhisheksharma004/Abhisheksharma004/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhisheksharma004/Abhisheksharma004/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://ghchart.rshah.org/FF6600/Abhisheksharma004" width="100%"/>
+  </picture>
+</p>
+
+
 <!--                   FOOTER BANNER                             -->
 <!-- ============================================================ -->
 
