@@ -287,18 +287,6 @@ Status   : Building SaaS Products
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════════ -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=CC4400&height=45&text=%F0%9F%90%8D%20Contribution%20Snake&fontSize=22&fontColor=ffffff&fontAlignY=50"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhisheksharma004/Abhisheksharma004/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhisheksharma004/Abhisheksharma004/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake animation" src="https://ghchart.rshah.org/FF6600/Abhisheksharma004" width="100%"/>
-  </picture>
-</p>
 
 
 <!--                   FOOTER BANNER                             -->
